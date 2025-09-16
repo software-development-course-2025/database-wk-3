@@ -43,3 +43,12 @@
 ---
 
 Good luck 🚀
+
+---
+
+## ❗ Submission Note
+
+> **Completion Date:** 17-Sep-2025  
+> **Note:** This assignment was completed after the official deadline (Wednesday, 20-August-2025).  
+> It is being submitted solely for learning and practice purposes. I understand it will not be reviewed, but wanted to demonstrate completion and personal commitment to the course.
+
